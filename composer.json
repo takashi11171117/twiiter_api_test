@@ -1,0 +1,12 @@
+{
+    "name": "saito/twitter",
+    "authors": [
+        {
+            "name": "Saito Takashi",
+            "email": "takashi11171117@gmail.com"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "^1.0"
+    }
+}
