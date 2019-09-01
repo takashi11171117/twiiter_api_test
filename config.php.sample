@@ -1,0 +1,6 @@
+<?php
+define("CK", "");
+define("CSec", "");
+define("AT", "");
+define("ASec", "");
+define("OAUTH_CALLBACK", "http://localhost/twitter/callback.php");
